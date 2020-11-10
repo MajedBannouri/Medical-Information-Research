@@ -1,0 +1,205 @@
+<queries>
+
+	<query>
+		<id>151001</id>
+		<en>anemia treat diet therapy changes </en>
+	</query>
+	<query>
+		<id>152001</id>
+		<en>mental health cause withdrawn mood changes mental health social care illness people treatment psychiatric disorders patients</en>
+	</query>
+	<query>
+		<id>153001</id>
+		<en>diabetes US support organisation</en>
+	</query>
+	<query>
+		<id>154001</id>
+		<en>high blood pressure daily life changes diet activity </en>
+	</query>
+	<query>
+		<id>155001</id>
+		<en>infectious disease outbreak cause prevent </en>
+	</query>
+	<query>
+		<id>156001</id>
+		<en> test identify food allergy food allergies  allergy allergen allergic allergens foods reactions reaction milk labeling symptoms nuts proteins common ige skin allergenic include</en>
+	</query>
+	<query>
+		<id>157001</id>
+		<en>orlistat treatment orlistat treatment drug effects  fat united weight study prescription xenical alli absorption decrease australia european approval 
+liver injury journal</en>
+	</query>
+	<query>
+		<id>158001</id>
+		<en>radiation effects health radiation fukushima levels radioactive march plant caesium health nuclear 2011 prefecture japanese becquerels water japan cancer radioactivity government reported april</en>
+	</query>
+	<query>
+		<id>159001</id>
+		<en>smoking risks health diseases</en>
+	</query>
+	<query>
+		<id>160001</id>
+		<en>smoking quit products </en>
+	</query>
+	<query>
+		<id>161001</id>
+		<en>food contain omega 3 fatty acid diet advantages</en>
+	</query>
+	<query>
+		<id>162001</id>
+		<en>common medication problems side-effects overdose</en>
+	</query>
+	<query>
+		<id>163001</id>
+		<en>anxiety coping strategy anxiety fear disorders disorder social symptoms people include  factors</en>
+	</query>
+	<query>
+		<id>164001</id>
+		<en>spirulina health benefit </en>
+	</query>
+	<query>
+		<id>165001</id>
+		<en>allergy symptom migraine migraine migraines allergic allergy symptoms people allergies aura pain evidence </en>
+	</query>
+	<query>
+		<id>166001</id>
+		<en>ketamine effects overdose ketamine effects receptor drug nmda antidepressant pain anesthetic people increased </en>
+	</query>
+	<query>
+		<id>167001</id>
+		<en>head neck cancer type progression mortality</en>
+	</query>
+	<query>
+		<id>168001</id>
+		<en>HIV vaccine stages hiv vaccine phase </en>
+	</query>
+	<query>
+		<id>169001</id>
+		<en>blood test normal range results blood test tests </en>
+	</query>
+	<query>
+		<id>170001</id>
+		<en>rheumatoid arthritis prognosis  ra disease </en>
+	</query>
+	<query>
+		<id>171001</id>
+		<en>breast lift surgery cost information</en>
+	</query>
+	<query>
+		<id>172001</id>
+		<en>fever shivering causes fever temperature body heat </en>
+	</query>
+	<query>
+		<id>173001</id>
+		<en>medication food interactions</en>
+	</query>
+	<query>
+		<id>174001</id>
+		<en>child food breakfast before school </en>
+	</query>
+	<query>
+		<id>175001</id>
+		<en>voltaren ankle pain running pain ankle </en>
+	</query>
+	<query>
+		<id>176001</id>
+		<en>pevlic inflammatory disease treatments</en>
+	</query>
+	<query>
+		<id>177001</id>
+		<en>child breakfast school performance diet breakfast coffee bread milk cheese children served fried eggs tea </en>
+	</query>
+	<query>
+		<id>178001</id>
+		<en>drug addiction rehab organisation recovery twelve-step addiction</en>
+	</query>
+	<query>
+		<id>179001</id>
+		<en>human insulin resistance prevent insulin resistance glucose </en>
+	</query>
+	<query>
+		<id>180001</id>
+		<en>sleep apnea treatment sleep apnea</en>
+	</query>
+	<query>
+		<id>181001</id>
+		<en>marijuana long term memory effect benzodiazepines long-term benzodiazepine</en>
+	</query>
+	<query>
+		<id>182001</id>
+		<en>Muscle soreness exercise duration</en>
+	</query>
+	<query>
+		<id>183001</id>
+		<en>celery water percentage  water celery </en>
+	</query>
+	<query>
+		<id>184001</id>
+		<en>antiandrogen treatment prostate cancer prostate cancer treatment</en>
+	</query>
+	<query>
+		<id>185001</id>
+		<en>cause prostate cancer chemical toxin avoid prostate cancer treatment</en>
+	</query>
+	<query>
+		<id>186001</id>
+		<en>stem cell treatment hearing loss hearing loss noise</en>
+	</query>
+	<query>
+		<id>187001</id>
+		<en>blood pressure smoking hypertension cause decrease pressure blood</en>
+	</query>
+	<query>
+		<id>188001</id>
+		<en>caffeine drinking side effect heart attack blood pressure </en>
+	</query>
+	<query>
+		<id>189001</id>
+		<en>long term effect gonorrhoea cannabis risk psychosis </en>
+	</query>
+	<query>
+		<id>190001</id>
+		<en>privatisation health care system canada </en>
+	</query>
+	<query>
+		<id>191001</id>
+		<en>liver function blood test liver blood tests</en>
+	</query>
+	<query>
+		<id>192001</id>
+		<en>diabetes mellitus body fat mass ideal </en>
+	</query>
+	<query>
+		<id>193001</id>
+		<en>ionized water therapy health benefit</en>
+	</query>
+	<query>
+		<id>194001</id>
+		<en>avulsion fracture ankle time heal sport</en>
+	</query>
+	<query>
+		<id>195001</id>
+		<en> lyme disease treatment lyme disease tick</en>
+	</query>
+	<query>
+		<id>196001</id>
+		<en>parkinson's disease titanium cause treatment disease pd symptoms </en>
+	</query>
+	<query>
+		<id>197001</id>
+		<en>treatment running nose baby infant</en>
+	</query>
+	<query>
+		<id>198001</id>
+		<en>high protein diet health effect diets high-protein diet</en>
+	</query>
+	<query>
+		<id>199001</id>
+		<en>underage drinking detriment health effect</en>
+	</query>
+	<query>
+		<id>200001</id>
+		<en>hiccup eating lump back throat cause </en>
+	</query>
+
+</queries>
